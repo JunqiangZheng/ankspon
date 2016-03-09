@@ -16,3 +16,5 @@ as_key.txt: nucleotide barcodes required
 
 demultiplexing_and_processing.sh: script for processing reads (deposited elsewhere) using tools found at github.com/ggloor
 
+as_otu.tree: phylogenetic tree required for phylogenetic diversity analysis
+
